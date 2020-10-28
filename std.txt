@@ -1,0 +1,20 @@
+Student id : 
+	Name : Arthur
+	Roll no : 292
+	Average : 57
+***********************************
+Student id : 
+	Name : Bikash
+	Roll no : 768
+	Average : 55
+***********************************
+Student id : 
+	Name : John
+	Roll no : 7887
+	Average : 57
+***********************************
+Student id : 
+	Name : James
+	Roll no : 893
+	Average : 57
+***********************************

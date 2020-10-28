@@ -1,0 +1,11 @@
+ISBN	NAME			TOTAL PAGE				AUTHOR
+1090	Maths Max			400							Rammes Sukala
+1091	Science for Test	600						Jairaj Kurumi
+1092	Magic of God		340						Dr. Rima Das
+1093	History					322						John Simat
+1094	Political				   450						Dr. Prolad Bilver
+1095	You can win			500						Sive Khara
+1096	Never mind			 333						Arthur kindo
+1097	You will never 	    500						Dr. Bikash Nag
+1098	How to make gf	300	Rahul Nag
+1099	Who are you	590	Dr. James Kumar
